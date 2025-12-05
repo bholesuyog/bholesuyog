@@ -49,6 +49,7 @@
 ### 🛠️ Development Tools
 <img src="https://skillicons.dev/icons?i=idea,eclipse,git,postman,grafana,prometheus" />
 
+
 </div>
 
 ---
@@ -73,7 +74,6 @@
 | **Message Queues (ActiveMQ/Kafka)** | ![80%](https://geps.dev/progress/80?color=ff9900) |
 | **Monitoring & Analytics** | ![75%](https://geps.dev/progress/75?color=ffcc00) |
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250"/>
 
 ### 🏆 Expertise Distribution
 ```
