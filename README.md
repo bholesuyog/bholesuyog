@@ -49,8 +49,6 @@
 ### 🛠️ Development Tools
 <img src="https://skillicons.dev/icons?i=idea,eclipse,git,postman,grafana,prometheus" />
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400"/>
-
 </div>
 
 ---
